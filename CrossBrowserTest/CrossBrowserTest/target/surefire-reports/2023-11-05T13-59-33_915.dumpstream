@@ -1,0 +1,4 @@
+# Created at 2023-11-05T13:59:35.163
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Kaveri_Workspace\CrossBrowserTest\CrossBrowserTest\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
